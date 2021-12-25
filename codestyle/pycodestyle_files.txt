@@ -1,0 +1,4 @@
+../*.py
+../modeling/*.py
+../core/*.py
+../setup/*.py
